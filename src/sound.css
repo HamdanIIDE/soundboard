@@ -1,0 +1,15 @@
+.sound1 {
+    height: 100px;
+    width: 100px;
+    background-color: rgb(13, 74, 102);
+  }
+  .main {
+    position: relative;
+    left: 30%;
+    width: 35%;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+  
